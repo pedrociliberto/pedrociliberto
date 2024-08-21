@@ -1,6 +1,7 @@
 ## Hi there! I'm Pedro. 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrociliberto&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrociliberto&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=colocruzandes&count=3&width=465)
 
