@@ -1,4 +1,6 @@
-# Hi there! I'm Pedro. 👋
+# Hi there! I'm Pedro.
+
+I'm a **Computer Engineering** student at Buenos Aires University (UBA), currently on my second year. 
 
 ## My stats 
 
