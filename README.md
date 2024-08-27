@@ -2,13 +2,6 @@
 
 I'm a 2nd year student pursuing a **Computer Engineering** Undergraduate Degree, at Buenos Aires University (UBA). 
 
-## My stats 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrociliberto&theme=react&show_icons=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrociliberto&layout=compact&theme=react&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## Extras
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=colocruzandes&count=3&width=465)
