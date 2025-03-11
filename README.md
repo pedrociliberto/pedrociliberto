@@ -1,6 +1,6 @@
 # Hi there! I'm Pedro.
 
-I'm a 2nd year student pursuing a **Computer Engineering** Undergraduate Degree, at Buenos Aires University (UBA). 
+I'm a 3rd year student pursuing a **Computer Engineering** Undergraduate Degree, at Buenos Aires University (UBA). 
 
 ## Extras
 
