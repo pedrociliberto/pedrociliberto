@@ -4,7 +4,7 @@ I'm a 3rd year student pursuing a **Computer Engineering** Undergraduate Degree,
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats-git-master-pedros-projects-e2faa298.vercel.app/api/top-langs/?username=pedrociliberto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-pedros-projects-e2faa298.vercel.app/api/top-langs/?username=pedrociliberto&count_private=true)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&layout=compact)
 
 ## Extras
 
