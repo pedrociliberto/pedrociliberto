@@ -2,6 +2,10 @@
 
 I'm a 3rd year student pursuing a **Computer Engineering** Undergraduate Degree, at Buenos Aires University (UBA). 
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrociliberto)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Extras
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=colocruzandes&count=3&width=465)
