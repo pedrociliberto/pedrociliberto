@@ -11,7 +11,7 @@ I'm a 3rd year student pursuing a **Computer Engineering** Undergraduate Degree,
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=colocruzandes&count=3&width=465)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrociliberto/pedrociliberto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrociliberto/pedrociliberto/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pedrociliberto/pedrociliberto/output/github-snake.svg" />
 </picture>
