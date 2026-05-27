@@ -6,6 +6,7 @@ I'm a 4th year student pursuing a **Computer Engineering** Undergraduate Degree,
 
 [![Top Langs](https://github-readme-stats-ten-tawny-74.vercel.app/api/top-langs/?username=pedrociliberto&count_private=true&langs_count=10&layout=compact&theme=dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Extras
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=colocruzandes&count=3&width=465)
@@ -15,3 +16,4 @@ I'm a 4th year student pursuing a **Computer Engineering** Undergraduate Degree,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrociliberto/pedrociliberto/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/pedrociliberto/pedrociliberto/output/github-snake.svg" />
 </picture>
+-->
