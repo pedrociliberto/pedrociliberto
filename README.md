@@ -69,6 +69,18 @@ Teaching Assistant for 2 programming subjects at FIUBA.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RubyMine](https://img.shields.io/badge/RubyMine-%23000000.svg?style=for-the-badge&logo=RubyMine&logoColor=white)
 
+## 📝 Projects I've worked on
+
+### 🎾 The Tennis World - [Match Predictions](https://github.com/pedrociliberto/CienciaDeDatos-2026C1/blob/main/tps/tp2.ipynb) & [Exploratory Analysis Queries](https://github.com/pedrociliberto/CienciaDeDatos-2026C1/blob/main/tps/tp1.ipynb)
+
+The goal of this project was to build a machine learning pipeline to **predict professional ATP tennis match winners** based on pre-match historical statistics, ensuring strict data leakage prevention and class symmetry through random player assignments. By a process of Feature Engineering, I created special feature differences, such as adjusted ELO ratings, recent match streaks, and surface-specific performances. The project evaluated linear and non-linear approaches, ultimately achieving a performance boost from a baseline 67% accuracy using Logistic Regression to a top **80% accuracy and F1-score using an optimized XGBoost model**. 
+
+Previous to this work, I chose a big ATP big tennis dataset found in [Kagle](https://www.kaggle.com/datasets/warcoder/atp-tennis-rankings-results-and-stats1968-2023), narrowing the scope to ATP Tour singles matches from 1990 to 2023 to align with my personal tennis knowledge. I set up key Python libraries including `pandas`, `matplotlib`, `seaborn`, `numpy`, `networkx`, and `re`, and dynamically loaded and concatenated the yearly files into three core DataFrames: `matches`, `rankings`, and `players`. I mainly used **Pandas and Spark queries** to find information because they provided a fast, scalable way to query, filter, and process large multi-year datasets.
+
+
+### 🧉 [Hang-Out](https://github.com/pedrociliberto/Gestion-2026C1/tree/main/Hang-Out) - Meeting Planner
+
+Hang-Out is an application developed for managing group gatherings and meeting events, designed to unify social organization and coordination in one same place. Within the app, users can set up custom gatherings or large events with specified dates, times, and locations (including open businesses) invite participants, and vote the best and most suitable option for the group.
 
 ## 👨‍💻 Top Languages
 
